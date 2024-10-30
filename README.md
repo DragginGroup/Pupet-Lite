@@ -1,2 +1,2 @@
 # Pupet-SE
-Scratch Edition of Pupet
+Lite Edition of Pupet

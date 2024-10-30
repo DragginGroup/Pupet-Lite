@@ -1,5 +1,6 @@
 # Info
-SE stands for Scratch Edition
+SE stands for Scratch Edition (og planned name)
+L stands for Lite
 
 ## Versioning Symbols
 p# - prototype #
